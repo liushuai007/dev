@@ -19,3 +19,9 @@
 *.exe
 *.out
 *.app
+
+# Default created files
+*.suo
+*.sdf
+*.vcxproj.filters
+*.vcxproj.user
